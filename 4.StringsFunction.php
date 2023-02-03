@@ -7,8 +7,8 @@
     echo trim($myString, "ok") . "<br>"; //remove null,"\n",defined charecter
 
     echo "strlen:" . strlen($myString) . "<br>"; //ktogula string ace
-    echo "strstr:" . strstr($myString, "a") . "<br>"; //
-    echo "strReplace:" . str_replace("is","are",$myString);
-
+    echo "strstr:" . strstr($myString, "a") . "<br>"; //str jeta set korbo then poer word gulo show korbe
+    echo "strReplace:" . str_replace("is","are",$myString);// (remove str,add str,variavle)sentece a ja kisu replace korte cai
+    
 
 ?>
