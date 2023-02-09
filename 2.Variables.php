@@ -9,7 +9,7 @@
 
 
     $Book=45; //$book,$Book are a two different variable
-    $book=78;
+    $book=78;  // 78 value assign to $book variable
     echo $book . "<br>";
     echo $Book;
 

@@ -13,7 +13,7 @@
         echo $stuff[1] . "<br>";
         echo $stuff2[3] . "<br>";
         echo $stuff2[5][0] . "<br>";
-        
+
         echo "<pre>";
         print_r($stuff2);
         echo "</pre>";
