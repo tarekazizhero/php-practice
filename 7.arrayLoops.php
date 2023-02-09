@@ -15,10 +15,9 @@
         echo $arr[$x] . "<br>";
      }
 
-
-
-
-     
+    
+    
+    
      echo "<pre>";
      print_r ($arr);
      echo "</pre>";
